@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fff;
+}
+
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    padding: 0;
+    margin: 0;
+}
+.colors1{
+    background-color: black;
+    height: 300px;
+}
+
+.colors2{
+    background-color: #fff;
+    height: 300px;
+}
